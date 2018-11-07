@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\STI\STI\bin\Debug\netcoreapp2.0\STI.deps.json
+C:\Users\Carlos\source\repos\STI\STI\bin\Debug\netcoreapp2.0\STI.runtimeconfig.json
+C:\Users\Carlos\source\repos\STI\STI\bin\Debug\netcoreapp2.0\STI.runtimeconfig.dev.json
+C:\Users\Carlos\source\repos\STI\STI\bin\Debug\netcoreapp2.0\STI.dll
+C:\Users\Carlos\source\repos\STI\STI\bin\Debug\netcoreapp2.0\STI.pdb
+C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.AssemblyInfoInputs.cache
+C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.AssemblyInfo.cs
+C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.dll
+C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.pdb
