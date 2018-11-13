@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using STI.Models;
+using STI.Data;
 
 namespace STI
 {
@@ -30,7 +31,7 @@ namespace STI
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, STIContext context)
         {
             if (env.IsDevelopment())
             {
@@ -50,6 +51,7 @@ namespace STI
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
+            DBInitializer.Initialize(context);
         }
     }
 }

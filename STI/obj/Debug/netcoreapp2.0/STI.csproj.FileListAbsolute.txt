@@ -9,3 +9,5 @@ C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.AssemblyInfoInp
 C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.AssemblyInfo.cs
 C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.dll
 C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.pdb
+C:\Users\Carlos\source\repos\STI\STI\bin\Debug\netcoreapp2.0\MySql.Data.DLL
+C:\Users\Carlos\source\repos\STI\STI\obj\Debug\netcoreapp2.0\STI.csproj.CopyComplete
